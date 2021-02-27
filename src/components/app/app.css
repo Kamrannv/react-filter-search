@@ -1,0 +1,8 @@
+.top-panel{
+    display: flex;
+    justify-content: space-between;
+}
+.todo-app{
+    margin-right:30px;
+    margin-left: 30px
+}
